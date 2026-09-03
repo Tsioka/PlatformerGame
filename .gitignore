@@ -1,0 +1,7 @@
+/.godot/
+/android_export/
+*.exe
+*.zip
+*.apk
+*.aab
+*.log
